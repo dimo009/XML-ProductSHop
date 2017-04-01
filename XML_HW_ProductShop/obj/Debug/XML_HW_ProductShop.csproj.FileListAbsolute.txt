@@ -1,0 +1,10 @@
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\bin\Debug\XML_HW_ProductShop.exe.config
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\bin\Debug\XML_HW_ProductShop.exe
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\bin\Debug\XML_HW_ProductShop.pdb
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\bin\Debug\EntityFramework.dll
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\bin\Debug\EntityFramework.xml
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\obj\Debug\XML_HW_ProductShop.csprojResolveAssemblyReference.cache
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\obj\Debug\XML_HW_ProductShop.exe
+c:\users\stoyadim\documents\visual studio 2015\Projects\XML_HW_ProductShop\XML_HW_ProductShop\obj\Debug\XML_HW_ProductShop.pdb
